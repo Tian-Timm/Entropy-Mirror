@@ -19,7 +19,7 @@
 </table>
 <br>
 
-[**Launch Live Experience**](https://yuntian-hou.github.io/Entropy-Mirror/)
+[**Launch Live Experience**](https://tian-timm.github.io/Entropy-Mirror/)
 
 <br>
 
@@ -76,7 +76,7 @@ The system acts as an ambient logger. Once the screen is filled with stars (appr
 
 ## 🚀 How to Run
 
-1.  **Online**: Click the [Live Demo](https://yuntian-hou.github.io/Entropy-Mirror/) link above.
+1.  **Online**: Click the [Live Demo](https://tian-timm.github.io/Entropy-Mirror/) link above.
 2.  **Local**:
     * Clone this repository.
     * Open `index.html` in any modern browser.
@@ -91,3 +91,4 @@ The system acts as an ambient logger. Once the screen is filled with stars (appr
 *2026*
 
 </div>
+
