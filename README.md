@@ -3,7 +3,21 @@
 # ENTROPY MIRROR
 ### A Generative Art Installation on Sound and Time
 
-![Project Demo](assets/demo.gif)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/demo-quiet.gif" width="100%" alt="Zen Mode">
+      <br>
+      <b>Zen Mode (Quiet)</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/demo-loud.gif" width="100%" alt="Chaos Mode">
+      <br>
+      <b>Chaos Mode (Loud)</b>
+    </td>
+  </tr>
+</table>
+<br>
 
 [**Launch Live Experience**](https://yuntian-hou.github.io/Entropy-Mirror/)
 
@@ -47,7 +61,7 @@ The system acts as an ambient logger. Once the screen is filled with stars (appr
 ### 📸 Sample Output
 *A snapshot of a generated "Sound Galaxy"*
 
-<img src="assets/generated-map.png" width="80%">
+<img src="assets/Generated-map.png" width="80%">
 
 </div>
 
@@ -72,7 +86,7 @@ The system acts as an ambient logger. Once the screen is filled with stars (appr
 
 <div align="center">
 
-**Designed & Developed by Yuntian Hou**
+**Designed & Developed by Max Hou**
 <br>
 *2026*
 
